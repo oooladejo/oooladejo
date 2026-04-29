@@ -2,7 +2,7 @@
 
 📍 Dallas, Texas  
 📧 oladejolushola@gmail.com  
-💼 AI-Driven Operations | Human Resource Operations | Program Management | Founder  
+💼 AI-Driven Operations | Human Resource Operations | Program and Project Management | Founder  
 🟢 U.S. Permanent Resident (No Sponsorship Required)
 
 ---
@@ -24,7 +24,7 @@ I hold a STEM MBA from Georgia Institute of Technology and certifications in AI,
 ## 💡 What I Do
 
 - 🔹 AI-Powered Workflow Automation & Process Optimization  
-- 🔹 HR Operations & HRIS Management (Workday, SAP, Smartsheet)  
+- 🔹 HR Operations & HRIS Management (Workday, People Soft, Smartsheet)  
 - 🔹 Organizational Design & Workforce Planning  
 - 🔹 Program & Project Management  
 - 🔹 Workforce Analytics & Dashboards (Excel, Power BI)  
